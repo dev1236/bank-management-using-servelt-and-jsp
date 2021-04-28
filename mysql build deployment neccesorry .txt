@@ -1,0 +1,5 @@
+go to properties and 
+select deployment Assemble and build the mysql_connecter_jdbc_jar file 
+
+
+the error will be slove 
